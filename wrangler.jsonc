@@ -9,8 +9,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "webapp-production",
-      "database_id": "local-dev-placeholder"
+      "database_name": "deepguard-db",
+      "database_id": "7562c2b0-9a11-4eea-8d92-362e172e3091"
     }
   ]
 }
